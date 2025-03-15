@@ -13,7 +13,7 @@
 */
 
 document.getElementById('printResumeBtn').addEventListener('click', function() {
-  window.open('assets\\imgs\\ThaiThiKimYen_CV.pdf.pdf', '_blank');
+  window.open('assets\\imgs\\YenThai_CV.pdf', '_blank');
 });
 
 // smooth scroll
